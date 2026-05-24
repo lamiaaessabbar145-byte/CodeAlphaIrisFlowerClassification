@@ -1,8 +1,8 @@
-# 🌸 Iris Flower Classification
+#  Iris Flower Classification
 
 > **CodeAlpha Data Science Internship — Task 1**
 
-## 📌 Project Overview
+##  Project Overview
 
 This project builds a Machine Learning model to classify **Iris flowers** into three species:
 - *Setosa*
@@ -13,7 +13,7 @@ The classification is based on four measurements: **sepal length**, **sepal widt
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - **Source:** [UCI Machine Learning Repository / Scikit-learn built-in](https://www.kaggle.com/datasets/arshid/iris-flower-dataset)
 - **Samples:** 150 flowers (50 per species)
@@ -22,7 +22,7 @@ The classification is based on four measurements: **sepal length**, **sepal widt
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Tool | Purpose |
 |------|---------|
@@ -35,7 +35,7 @@ The classification is based on four measurements: **sepal length**, **sepal widt
 
 ---
 
-## 🤖 Models Trained
+##  Models Trained
 
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
@@ -44,7 +44,7 @@ The classification is based on four measurements: **sepal length**, **sepal widt
 
 ---
 
-## 📊 Results
+##  Results
 
 | Model | Accuracy |
 |-------|----------|
@@ -55,7 +55,7 @@ The classification is based on four measurements: **sepal length**, **sepal widt
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Clone the repository:**
 ```bash
@@ -75,7 +75,7 @@ jupyter notebook iris_classification.ipynb
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 CodeAlpha_IrisFlowerClassification/
@@ -89,7 +89,7 @@ CodeAlpha_IrisFlowerClassification/
 
 ---
 
-## 📚 Key Learnings
+##  Key Learnings
 
 - Understanding classification problems in Machine Learning
 - Data preprocessing and exploratory data analysis (EDA)
@@ -98,15 +98,15 @@ CodeAlpha_IrisFlowerClassification/
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 **Your Name**
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 🔗 LinkedIn: https://linkedin.com/in/LAMIAA ESSABBAR
+- 💻 GitHub: https://github.com/lamiaaessabbar145-byte
 
 ---
 
-## 🏢 Internship
+##  Internship
 
 This project was completed as part of the **CodeAlpha Data Science Internship**.
 
