@@ -100,14 +100,12 @@ CodeAlpha_IrisFlowerClassification/
 
 ## 🧑‍💻 Author
 
-**Your Name**
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+**ESSABBAR LAMIAA**
+- LinkedIn: [LAMIAA ESSABBAR](https://www.linkedin.com/in/lamiaa-essabbar)
+- GitHub: [lamiaaessabbar145-byte](https://github.com/lamiaaessabbar145-byte)
 
 ---
 
 ## 🏢 Internship
 
 This project was completed as part of the **CodeAlpha Data Science Internship**.
-
-[![CodeAlpha](https://img.shields.io/badge/Internship-CodeAlpha-blue)](https://www.linkedin.com/company/codealpha/)
